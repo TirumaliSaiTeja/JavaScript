@@ -1,2 +1,2 @@
 # JavaScript
-Basics to advance of JavaScript
+Basics to advance of JavaScriptt
