@@ -23,3 +23,111 @@
 // }, 8000);
 
 // console.log("end");
+
+
+console.log('start');
+
+
+function loginUser(email, password, callback) {
+    setTimeout(()=>{
+        callback({userEmail: email});
+    }, 3000);
+}
+
+function getUserVideos(email, callback) {
+    setTimeout(()=>{
+        callback(['video1', 'video2', 'video3']);
+    }, 2000);
+}
+
+const User = loginUser('Saiteja@gmail.com', 1234567, user =>{
+    console.log(user);
+    getUserVideos(user.userEmail, videos=>{
+        console.log(videos);
+    });
+});
+
+console.log('finish')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
