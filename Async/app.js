@@ -40,6 +40,8 @@ function getUserVideos(email, callback) {
     }, 2000);
 }
 
+//function returns users login info
+
 const User = loginUser('Saiteja@gmail.com', 1234567, user =>{
     console.log(user);
     getUserVideos(user.userEmail, videos=>{
