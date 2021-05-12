@@ -48,6 +48,12 @@ The break statement "jumps out" of a loop.
 
 The continue statement "jumps over" one iteration in the loop.
 
+  
+  ECMAScript 6 was the second major revision to JavaScript.
+
+ECMAScript 6 is also known as ES6 and ECMAScript 2015.
+
+This chapter describes the most important features of ES6.
 
 
 
