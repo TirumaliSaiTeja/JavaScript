@@ -30,7 +30,7 @@ The switch statement is used to perform different actions based on different con
 
 
 The For/In Loop
-The JavaScript for/in statement loops through the properties of an Object
+The JavaScript for/in statement loops through the properties of an Object in the code
   
   
  The For/Of Loop
