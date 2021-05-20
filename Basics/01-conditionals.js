@@ -11,7 +11,7 @@
 
 
 Conditional Statements
-Very often when you write code, you want to perform different actions for different decisions.
+Very often when you write code, you want to perform different actions for differentdecisions.
 
 You can use conditional statements in your code to do this.
 
