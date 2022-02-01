@@ -16,7 +16,7 @@
 // console.log("start");
 
 // the settimeout will be pass on to the web api and it will handle
-// all the function and pushed back to callstack
+
 
 // setTimeout(()=>{
 //     console.log("welcome");
